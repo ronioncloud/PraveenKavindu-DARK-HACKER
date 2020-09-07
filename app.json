@@ -1,6 +1,6 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(Ram) Made with ❤ For Support Join @Dark_cobra_support ",
+  "name": "",
+  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(praveen) Made with ❤ For Support Join @Dark_cobra_support ",
   "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hellboi-atul/hellboi-atul/",
-  "website": "https://github.com/hellboi-atul/hellboi-atul/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/PraveenKavindu/DARK-HACKER/",
+  "website": "https://github.com/PraveenKavindu/DARK-HACKER",
+  "success_url": "https://telegra.ph/file/df341e393aeda55112d3c.jpg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
